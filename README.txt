@@ -1,5 +1,3 @@
-Mamut Nuray, 331AB
-
 Modulul Sensors_Input
  - am utilizat 2 module pentru implementare: module media_2, module media_4
 
